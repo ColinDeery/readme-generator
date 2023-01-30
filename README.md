@@ -1,4 +1,4 @@
-# none
+# ReadMe Generator
 
   ## Table of Contents
     * [Installation](#installation)
@@ -6,13 +6,13 @@
     * [License](#license)
 
   ## Description
-  none
+  ReadMe Generator
 
   ## Installation
   undefined
 
   ## Usage
-  none
+  in the command line, run node index.js
 
   ## License
   MIT
@@ -20,11 +20,11 @@
   ![MIT](https://img.shields.io/badge/license-MIT-blue)
 
   # Test
-  npm test
+  no test required
 
   ## Contributions
   none
 
   ## Contact Info
-  Github: [colindeery](https://github.com/colindeery/)
-  eMail: colinbdeery@gmail.com
+  Github: [jfklsd;](https://github.com/jfklsd;/)
+  eMail: dsfdsa
